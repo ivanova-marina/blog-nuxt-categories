@@ -1,1 +1,1 @@
-The repositry for [Categories for articles with Nuxt ]().
+The repositry for [Categories for articles with Nuxt ](https://marina.monster/articles/nuxt_cats/).
